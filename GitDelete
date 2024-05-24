@@ -1,0 +1,2 @@
+git clean -f ..clear files
+git clean -d -f... clear directories
